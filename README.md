@@ -1,2 +1,2 @@
-# subset_sum_problem
-One of my example approaches to the subset sum problem using Python.
+# Subset sum problem
+An exhaustive search example to the subset sum problem using Python. See the source code header for more information.
